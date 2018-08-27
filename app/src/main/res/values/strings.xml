@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UI_project</string>
+    <string name="verify">VERIFY</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="foods_at_your_doorsteps">Foods at your doorsteps</string>
+    <string name="verify1">Verify</string>
+    <string name="please_check_the_otp_sent_to_your_number">Please check the OTP sent to your number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
